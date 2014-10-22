@@ -3,7 +3,7 @@ body {
   text-align: center;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
-  font-weight: 300;
+  font-color: white;
   font-size: 25px;
   height: 100%;
   text-align: center;
@@ -12,5 +12,5 @@ body {
 }
 
 image {
-
+  border-radius: 50px;
 }
