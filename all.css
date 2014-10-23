@@ -23,9 +23,21 @@ ul  {
   text-decoration: none;
   list-style: none;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  text-align: center;
+}
 
+a {
+  text-decoration: none;
 }
 
 i   {
   padding: 7px;
+}
+
+a:hover {
+    color: darkseagreen;
+}
+
+a:visited {
+    color: mediumseagreen;
 }
