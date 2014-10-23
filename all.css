@@ -11,6 +11,10 @@ body {
   padding: 0;
 }
 
+h1 {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
 img {
   border-radius: 50%;
 }
@@ -18,5 +22,10 @@ img {
 ul  {
   text-decoration: none;
   list-style: none;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 
+}
+
+i   {
+  padding: 7px;
 }
