@@ -4,11 +4,12 @@ body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
   color: antiquewhite;
-  font-size: 25px;
+  font-size: 20px;
   height: 100%;
   text-align: center;
   margin: 0;
   padding: 0;
+	box-sizing: border-box;
 }
 
 h1 {
@@ -16,9 +17,18 @@ h1 {
   font-size: 35px;
 }
 
+h4 {
+	float: top;
+	font-size: 25px;
+}
+
+.headshot img {
+		border-radius: 50%;
+		border: 2px solid antiquewhite;
+}
+
 img {
-  border-radius: 50%;
-	border:2px solid antiquewhite;
+	border: 1px solid antiquewhite;
 }
 
 ul  {
@@ -28,6 +38,7 @@ ul  {
   text-align: center;
   padding: 0;
   margin: 0;
+	font-size: 16px;
 }
 
 a {
@@ -35,14 +46,85 @@ a {
   color: antiquewhite;
 }
 
-i   {
+i {
   padding: 7px;
 }
 
 a:hover {
-    color: darkmagenta;
+    color: darkslategrey;
 }
 
 a:visited {
     color: darkslategrey;
 }
+
+.portfolio-cards {
+	display: block;
+}
+
+/* entire container, keeps perspective */
+.flip-container {
+	perspective: 1000;
+}
+/* flip the pane when hovered */
+.flip-container:hover .flipper, .flip-container.hover .flipper {
+	transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back {
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	padding: 15px;
+}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.8s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	backface-visibility: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+}
+
+/* back, initially hidden pane */
+.back {
+	transform: rotateY(180deg);
+}
+
+.toggle-box {
+	display: none;
+}
+
+.toggle-box + label {
+	cursor: pointer;
+	display: block;
+	font-weight: bold;
+	line-height: 21px;
+	margin-bottom: 5px;
+}
+
+.toggle-box + label + div {
+	display: none;
+	margin-bottom: 10px;
+}
+
+.toggle-box:checked + label + div {
+	display: block;
+}
+
+

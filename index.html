@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 
 <head>
   <title>DeeDee Lavinder</title>
@@ -11,7 +11,7 @@
 
 <body>
   <h1>DeeDee Lavinder</h1>
-  <img src="images/headshot.jpg"/>
+  <span class="headshot"><img src="images/headshot.jpg"/></span>
   <p>
 	</p>
   <ul>
@@ -19,16 +19,84 @@
       <a href="https://github.com/deedeelavinder"><i class="fa fa-github"></i></a> |
       <a href="https://twitter.com/ddlavinder"><i class="fa fa-twitter"></i></a> |
 	    <a href="https://www.linkedin.com/pub/deedee-lavinder/8/926/81a"><i class="fa fa-linkedin"></i></a></li>
-
   </ul>
-	<h3>Portfolio</h3>
-	<h4><a href="http://lunchpad.us">Lunchpad</a></h4>
-  <h4><a href="https://cryptic-garden-7968.herokuapp.com/">Find Your Legislators</a></h4>
-  <h4><a href="http://burblr.herokuapp.com/login/new">Burblr</a></h4>
-  <h4><a href="https://lit-gorge-1284.herokuapp.com/">Homework Helper</a></h4>
-  <h4><a href="https://github.com/deedeelavinder/gofish">Go Fish!</a></h4>
+	<p></p>
+  <p></p>
+  <input class="toggle-box" id="portfolio" type="checkbox" >
+  <label for="portfolio"><h4>PORTFOLIO</h4></label>
+	<div class="portfolio-cards">
+	  <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+		  <div class="flipper">
+			  <div class="front">
+				  <img src="images/lunchpadpic.png"/>
+			  </div>
+			  <div class="back">
+				  <h4><a href="http://lunchpad.us">Lunchpad</a></h4>
+				  <p>An online lunch ordering solution for small schools who bring in catered lunch. </p>
+				  <ul><li>Collaborators: <a href="http://kheang.net">Kheang Lim</a> & <a href="http://nickpassarella.com">Nick Passarella</a></li></ul>
+			  </div>
+		  </div>
+	  </div>
+	  <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+		  <div class="flipper">
+			  <div class="front">
+				  <img src="images/burblrpic.png"/>
+			  </div>
+			  <div class="back">
+				  <h4><a href="http://burblr.herokuapp.com">burblr</a></h4>
+				  <p>A micro-blogging social network. </p>
+				  <ul><li>Collaborator: <a href="http://kheang.net">Kheang Lim</a></li></ul>
+			  </div>
+		  </div>
+	  </div>
+	  <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+		  <div class="flipper">
+			  <div class="front">
+				  <img src="images/findyerlators.png"/>
+			  </div>
+			  <div class="back">
+				  <h4><a href="https://cryptic-garden-7968.herokuapp.com">Find Your Legislators</a></h4>
+				  <p>Uses Sunlight API and Geocoder to find the elected officials of a certain locale. </p>
+				  <ul><li>Collaborator: <a href="http://nickpassarella.com">Nick Passarella</a></li></ul>
+			  </div>
+		  </div>
+	  </div>
+	  <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+		  <div class="flipper">
+			  <div class="front">
+				  <img src="images/homeworkhelperpic.png"/>
+			  </div>
+			  <div class="back">
+				  <h4><a href="https://lit-gorge-1284.herokuapp.com">Homework Helper</a></h4>
+				  <p>A platform for asking homework-related questions. </p>
+				  <ul><li>Collaborator: <a href="https://github.com/pbyrne222">Peter Bryne</a></li></ul>
+			  </div>
+		  </div>
+	  </div>
+	  <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+		  <div class="flipper">
+			  <div class="front">
+				  <img src="images/gofishpic.png"/>
+			  </div>
+			  <div class="back">
+				  <h4><a href="https://github.com/deedeelavinder/gofish">Go Fish!</a></h4>
+				  <p>A game played on the command line, written after two weeks of code school. ruby game.rb</p>
+			  </div>
+		  </div>
+	  </div>
+	</div>
+	<p></p>
+  <input class="toggle-box" id="resume" type="checkbox" >
+  <label for="resume"><h4>RESUME</h4></label>
+  <div>
+	  <object data="2014LavinderResume.pdf" type="application/pdf" width="100%" height="400px">
+		  <p>It appears you don't have a PDF plugin for this browser.
+			  No biggie... you can <a href="2014LavinderResume.pdf">click here to
+				  download the PDF file.</a></p>
+	  </object>
+	</div>
 
-
+  </div>
 
 </body>
 </html>
