@@ -1,9 +1,9 @@
 body {
-  background-color: #9DAAA9;
+  background-color: #b8c2bc;
   text-align: center;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
-  color: antiquewhite;
+  color: darkslategrey;
   font-size: 20px;
   height: 100%;
   text-align: center;
@@ -52,11 +52,11 @@ i {
 }
 
 a:hover {
-    color: darkslategrey;
+    color: antiquewhite;
 }
 
 a:visited {
-    color: darkslategrey;
+    color: antiquewhite;
 }
 
 .portfolio-cards {
