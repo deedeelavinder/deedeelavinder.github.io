@@ -1,5 +1,4 @@
 body {
-  background-color: #b8c2bc;
   text-align: center;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
@@ -10,6 +9,22 @@ body {
   margin: 0;
   padding: 0;
 	box-sizing: border-box;
+}
+
+.splash {
+	background:
+	linear-gradient(
+		rgba(85,98,112, .4),
+		rgba(85,98,112, 0.1)
+	),
+	url(images/hubble.jpg);
+
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #b8c2bc;
+	min-height: 100%;
 }
 
 h1 {
