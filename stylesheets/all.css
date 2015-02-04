@@ -234,8 +234,8 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 	opacity: 1;
 	visibility: visible;
 	background-color: antiquewhite;
-	margin-left: auto;
-	margin-right: auto;
+	left: 0;
+	right: 0;
 }
 
 .landing .hire-me ul.buttons li ul.drop-down {
