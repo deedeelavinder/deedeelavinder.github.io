@@ -267,6 +267,10 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
   top: 1px;
 }
 
+.landing i {
+	color: #270C07;
+}
+
 
 .portfolio {
   min-height: 100%;
@@ -281,7 +285,7 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
   font-size: 45px;
   font-weight: 200;
   margin: 0;
-  color: antiquewhite;
+  color: #270C07;
 }
 
 .portfolio p {
@@ -298,8 +302,9 @@ a {
   color: antiquewhite;
 }
 
-i {
-  color: #270C07;
+.portfolio i {
+  color: antiquewhite;
+	font-size: 20px;
 }
 
 .portfolio-cards {
