@@ -237,7 +237,7 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 }
 
 .landing .hire-me ul.buttons li ul.drop-down {
-	padding: 0;
+	padding-left: 20px;
 	display: block;
 	position: absolute;
 	opacity: 0;
@@ -256,6 +256,11 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 .landing .hire-me li a:hover {
   color: antiquewhite;
   font-weight: 100;
+}
+
+.landing .hire-me li:hover {
+	color: antiquewhite;
+	font-weight: 100;
 }
 
 .landing .hire-me ul.buttons li a:active {
