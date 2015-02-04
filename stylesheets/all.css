@@ -296,12 +296,12 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
   font-size: 1em;
 }
 
-h5 {
+.portfolio h5 {
   font-size: 20px;
   margin: 5px;
 }
 
-a {
+.portfolio a {
   color: antiquewhite;
 }
 
@@ -361,3 +361,6 @@ a {
 	background-color: rgba(0,0,0,.7);
 }
 
+.footer {
+	height: 40px;
+}
