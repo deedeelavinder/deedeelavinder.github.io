@@ -1,10 +1,4 @@
-html {
-  background: url(images/hubble.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 
 body {
   text-align: center;
@@ -17,6 +11,11 @@ body {
   box-sizing: border-box;
   font-size: 1em;
   line-height: 1.5;
+	background: url(images/hubble.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 header.nav-bar {
