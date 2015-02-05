@@ -198,47 +198,52 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
   margin: 0;
 }
 
-.landing .hire-me ul {
+.landing .action ul {
   list-style: none;
 }
 
-.landing .hire-me ul.buttons {
+.landing .action ul.buttons {
   padding: 0;
 }
 
-.landing .hire-me ul.buttons li:hover {
-  background-color: rgba(0,0,0,.7);
-  border: 2px solid rgba(0,0,0,.7);
+.landing .action ul.buttons li:hover {
+  background-color: transparent;
+  border: 1px solid #270c07;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.7);
+	box-sizing: border-box;
 }
 
-.landing .hire-me ul.buttons li:hover a:hover {
-  color: antiquewhite;
+.landing .action ul.buttons li:hover a:hover {
+  color: #270C07;
 }
 
 
-.landing .hire-me ul.buttons li {
+.landing .action ul.buttons li {
   line-height: 2;
-  border: 2px solid antiquewhite;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.7);
 	background-color: antiquewhite;
-  display: inline;
+	border: 1px solid antiquewhite;
+	display: inline;
   padding: 7px;
   margin: 10px;
   font-size: 25px;
   font-weight: 100;
 }
 
-.landing .hire-me ul.buttons li:hover ul.drop-down {
+.landing .action ul.buttons li:hover ul.drop-down {
 	display: block;
 	position: absolute;
 	padding: 0;
 	opacity: 1;
 	visibility: visible;
-	background-color: antiquewhite;
+	background-color: transparent;
 	margin-left: 90px;
 	box-sizing: border-box;
+	box-shadow: 1px 1px 1px #270c07;;
+
 }
 
-.landing .hire-me ul.buttons li ul.drop-down {
+.landing .action ul.buttons li ul.drop-down {
 	padding: 0;
 	display: block;
 	position: absolute;
@@ -250,23 +255,23 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 	margin-right: auto;
 }
 
-.landing .hire-me li a {
+.landing .action li a {
   text-decoration: none;
   color: #270C07;
   position: relative;
 }
 
-.landing .hire-me li a:hover {
-  color: antiquewhite;
+.landing .action li a:hover {
+  color: #270C07;
   font-weight: 100;
 }
 
-.landing .hire-me li:hover {
-	color: antiquewhite;
+.landing .action li:hover {
+	color: #270C07;
 	font-weight: 100;
 }
 
-.landing .hire-me ul.buttons li a:active {
+.landing .action ul.buttons li a:active {
   top: 1px;
 }
 
@@ -371,8 +376,8 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 .about .background {
 	background-color: antiquewhite;
 	color: #270C07;
-	border: 2px solid #270C07;
 	min-height: 100%;
+	box-shadow: 1px 1px 1px #270c07;;
 }
 
 .about h4 {
