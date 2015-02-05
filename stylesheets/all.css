@@ -1,3 +1,4 @@
+
 #bg {
 	position: fixed;
 	top: -50%;
@@ -317,14 +318,13 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 
 .portfolio-cards {
   display: block;
-  border: 2px solid antiquewhite;
 
 }
 
 /* entire container, keeps perspective */
 .flip-container {
 	perspective: 1000;
-    padding: 20px;
+  padding: 20px;
 }
 /* flip the pane when hovered */
 .flip-container:hover .flipper, .flip-container.hover .flipper {
@@ -341,7 +341,6 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 .flipper {
 	transition: 0.8s;
 	transform-style: preserve-3d;
-
 	position: relative;
 }
 
@@ -351,6 +350,7 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 	position: absolute;
 	top: 0;
 	left: 0;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.7);
 }
 
 /* front pane, placed above back */
