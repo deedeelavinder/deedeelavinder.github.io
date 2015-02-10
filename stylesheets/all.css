@@ -240,7 +240,6 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 	background-color: transparent;
 	margin-left: 90px;
 	box-sizing: border-box;
-	box-shadow: 1px 1px 1px #270c07;;
 
 }
 
@@ -277,16 +276,20 @@ header.nav-bar div ul.nav-links ul.drop-down li a:active {
 }
 
 .landing i {
-	color: #270C07;
+	color: antiquewhite;
+	background-color: transparent;
 }
 
 
 .portfolio {
   min-height: 100%;
-  max-width: 60%;
+  min-width: 100%;
   margin-left: auto;
   margin-right: auto;
   padding-top: 5em;
+	padding-bottom: 3em;
+	background-color: #FED3CB;
+	background-size: cover;
 }
 
 .portfolio h4 {
