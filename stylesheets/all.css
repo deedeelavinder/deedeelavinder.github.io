@@ -1,0 +1,298 @@
+
+#bg {
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    z-index: -1;
+}
+
+#bg img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+}
+
+body {
+    text-align: center;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 100;
+    color: antiquewhite;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1em;
+    line-height: 1.5;
+    background: url(images/hubble.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+header.nav-bar {
+    position: fixed;
+    height: 67px;
+    margin: auto 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 100%;
+    top: 0;
+    z-index: 100;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%,
+    rgba(0, 0, 0, 0) 100%);
+}
+
+header.nav-bar div {
+    color: antiquewhite;
+    font-size: 1.2em;
+    text-decoration: none;
+    list-style: none;
+}
+
+header.nav-bar div div.name {
+    float: left;
+    display: inline;
+    padding-left: 3em;
+    padding-top: 16px;
+}
+
+header.nav-bar div div.name a {
+    position: relative;
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+header.nav-bar div div.name a:visited {
+    color: antiquewhite;
+}
+
+header.nav-bar div div.name a:hover {
+    color: white;
+    text-shadow: 1px 1px 2px black
+}
+
+header.nav-bar div div.name a:active {
+    top: 1px;
+}
+
+header.nav-bar div ul.nav-links {
+    float: right;
+    padding-right: 3em;
+}
+
+header.nav-bar div ul.nav-links li {
+    padding: 1em 1em 1em 1em;
+    display: inline;
+    position: relative;
+    cursor: pointer;
+}
+
+header.nav-bar div ul.nav-links li a {
+    text-decoration: none;
+    color: antiquewhite;
+    position: relative;
+}
+
+header.nav-bar div ul.nav-links li a:visited {
+    color: antiquewhite;
+}
+
+header.nav-bar div ul.nav-links li a:hover {
+    color: white;
+    text-shadow: 1px 1px 2px black
+}
+
+header.nav-bar div ul.nav-links li a:active {
+    top: 1px;
+}
+
+header.nav-bar div ul.nav-links li:hover ul.drop-down {
+    display: block;
+    top: 65px;
+    position: absolute;
+    padding: 0;
+    right: -1em;
+    opacity: 1;
+    visibility: visible;
+    background-color: rgba(0, 0, 0, .7);
+}
+
+header.nav-bar div ul.nav-links li ul.drop-down {
+    padding: 0;
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    text-decoration: none;
+    text-align: center;
+    margin: 0;
+}
+
+header.nav-bar div ul.nav-links li:hover ul.drop-down li {
+    display: block;
+}
+
+header.nav-bar div ul.nav-links ul.drop-down li a {
+    text-decoration: none;
+    color: antiquewhite;
+    position: relative;
+}
+
+header.nav-bar div ul.nav-links ul.drop-down li a:visited {
+    color: antiquewhite;
+}
+
+header.nav-bar div ul.nav-links ul.drop-down li a:hover {
+    color: #FFFFFF;
+    text-shadow: 1px 1px 2px black
+}
+
+header.nav-bar div ul.nav-links ul.drop-down li a:active {
+    top: 1px;
+}
+
+.landing {
+    max-width: 60%;
+    /*padding: 15em 0;*/
+
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+    line-height: 1;
+    color: #270C07;
+    background-size: cover;
+    min-height: 100%;
+}
+
+.landing .title-bar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.landing .title-bar .headshot img {
+    border-radius: 50%;
+    border: 2px solid #270C07;
+    padding: 7px;
+    background-clip: content-box;
+    /*float: left;*/
+    position: relative;
+}
+
+.landing .title-bar .title {
+    margin-top: 2em;
+    /*float: right;*/
+    /*margin: 60px;*/
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.landing .title-bar .title h1 {
+    color: #270C07;
+    font-size: 60px;
+    font-weight: 200;
+    margin: 0;
+    /*text-shadow: -1px -1px 0 #270C07,*/
+    /*1px -1px 0 #270C07,*/
+    /*-1px 1px 0 #270C07,*/
+    /*1px 1px 0 #270C07;*/
+}
+
+.landing .title-bar .title h4 {
+    color: #270C07;
+    line-height: 1.5;
+    font-size: 45px;
+    font-weight: 200;
+    margin: 0;
+    /*text-shadow: -1px -1px 0 #270C07,*/
+    /*1px -1px 0 #270C07,*/
+    /*-1px 1px 0 #270C07,*/
+    /*1px 1px 0 #270C07;*/
+}
+
+.landing i {
+    color: #270C07;
+    background-color: transparent;
+}
+
+.content {
+    position: absolute;
+    top: 100%;
+    min-height: 100%;
+    min-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ddd3ee;
+    color: #270C07;
+}
+
+.about {
+    position: relative;
+    min-height: 100%;
+    min-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+
+.about .background {
+    min-height: 100%;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.presentations {
+    min-height: 100%;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.presentations ul {
+    display: inline-block;
+    list-style-type: square;
+}
+
+.presentations li a {
+    text-decoration: none;
+    color: #270C07;
+}
+
+.presentations li a:hover {
+    color: #270C07;
+    font-style: italic;
+}
+
+.content h4 {
+    line-height: 1.5;
+    font-size: 45px;
+    font-weight: 200;
+    margin: 0;
+    color: #270C07;
+    text-align: center;
+}
+
+.content p {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+}
+
+.content ul {
+    font-size: 20px;
+}
+
+.footer {
+    height: 10em;
+}
