@@ -2,122 +2,40 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> “Never get so busy making a living that you forget to make a life.”
 >
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+> – Dolly Parton
 
 
-### Definition lists can be used with HTML syntax.
+## { work }
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+I currently work as a backend software engineer in the payments industry. I also volunteer as a Director with the Raleigh/Durham chapter of Women Who Code.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+## { life }
+
+I am mother to three amazing people and two dogs. I also volunteer extensively in my community, love being outside, and never find quite enough time for all the reading I would like to do.
+
+
+## { me }
+
+People who know me describe me as collaborative, ambitious, patient, and compassionate. I welcome challenges, failure, and constructive criticism as opportunities for growth and development. Wired for optimism, I bring enthusiasm, kindness, and an open mind to everything I do.
+
+The skills I value and rely on the most include creative problem solving, analytical thinking,and connecting with people. I am a systems thinker and a detail lover.
+
+
+## { presentations }
+
+
+All Things Open: ["Ladies Explain the Blockchain"]("https://www.youtube.com/watch?v=BAISlnTLIeY"), _October 2018_
+
+
+Duke University's Nicholas Institute for Environmental Policy Solutions: "Blockchain Basics", _October 2018_
+
+Self.Conference: ["How the Game is Played: Understanding Blockchain Basics"]("http://selfconference.org/events/4/sessions#speaker_438"), _August 2018_
+
+PaymentsFN: ["3DS: The Good, The Bad & The Future"]("https://www.youtube.com/watch?v=rtMnAstvPdo"), _May 2018_
+
+Momentum: ["Ladies Explain the Blockchain"]("https://www.youtube.com/watch?v=W9NnaEHb5ZA"), _March 2018_
+
+Strangeloop: "Lightning Talk: Brainstorming with Introverts", _September 2017_
