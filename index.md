@@ -21,7 +21,7 @@ I am mother to three amazing people and two dogs. I also volunteer extensively i
 
 People who know me describe me as collaborative, ambitious, patient, and compassionate. I welcome challenges, failure, and constructive criticism as opportunities for growth and development. Wired for optimism, I bring enthusiasm, kindness, and an open mind to everything I do.
 
-The skills I value and rely on the most include creative problem solving, analytical thinking,and connecting with people. I am a systems thinker and a detail lover.
+The skills I value and rely on the most include creative problem solving, analytical thinking, and connecting with people. I am a systems thinker and a detail lover.
 
 
 ## { presentations }
