@@ -21,18 +21,22 @@
   </head>
   <body>
 
-    <header class="page-header" role="banner">
+  <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline
+          }}</h2>
 
-        <p><img src="assets/images/headshot.jpg"/></p>
+      <p><img src="assets/images/headshot.jpg"/></p>
 
-        <a href="assets/images/2017LavinderResume.pdf" target="_blank" class="btn">Resume</a>
-        <a href="mailto:deedeelavinder@gmail.com" class="btn">Email</a>
-        <a href="https://www.linkedin.com/in/deedee-lavinder" target=”_blank" class="btn">LinkedIn</a>
-        <a href="https://github.com/deedeelavinder" target=”_blank" class="btn">GitHub</a>    </header>
+      <div class="header-links">
+          <a href="assets/images/2017LavinderResume.pdf" target="_blank" class="header-links">Resume</a> |
+          <a href="mailto:deedeelavinder@gmail.com" class="header-links">Email</a> |
+          <a href="https://www.linkedin.com/in/deedee-lavinder" target=”_blank" class="header-links">LinkedIn</a> |
+          <a href="https://github.com/deedeelavinder" target=”_blank" class="header-links">GitHub</a>
+      </div>
+  </header>
 
-    <main id="content" class="main-content" role="main">
+  <main id="content" class="main-content" role="main">
       {{ content }}
 
       <!--<footer class="site-footer">-->
