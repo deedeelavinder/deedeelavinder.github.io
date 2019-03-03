@@ -31,14 +31,14 @@ The skills I value and rely on the most include creative problem solving, analyt
 
 ## { speaking engagements }
 
-All Things Open: ["Ladies Explain the Blockchain"]("https://www.youtube.com/watch?v=BAISlnTLIeY"), _October 2018_
+All Things Open: ["Ladies Explain the Blockchain"](https://www.youtube.com/watch?v=BAISlnTLIeY), _October 2018_
 
 Duke University's Nicholas Institute for Environmental Policy Solutions: "Blockchain Basics", _October 2018_
 
-Self.Conference: ["How the Game is Played: Understanding Blockchain Basics"]("http://selfconference.org/events/4/sessions#speaker_438"), _August 2018_
+Self.Conference: ["How the Game is Played: Understanding Blockchain Basics"](http://selfconference.org/events/4/sessions#speaker_438), _August 2018_
 
-PaymentsFN: ["3DS: The Good, The Bad & The Future"]("https://www.youtube.com/watch?v=rtMnAstvPdo"), _May 2018_
+PaymentsFN: ["3DS: The Good, The Bad & The Future"](https://www.youtube.com/watch?v=rtMnAstvPdo), _May 2018_
 
-Momentum: ["Ladies Explain the Blockchain"]("https://www.youtube.com/watch?v=W9NnaEHb5ZA"), _March 2018_
+Momentum: ["Ladies Explain the Blockchain"](https://www.youtube.com/watch?v=W9NnaEHb5ZA), _March 2018_
 
 Strangeloop: "Lightning Talk: Brainstorming with Introverts", _September 2017_
