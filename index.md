@@ -31,14 +31,26 @@ The skills I value and rely on the most include creative problem solving, analyt
 
 ## { speaking engagements }
 
-All Things Open: ["Ladies Explain the Blockchain"](https://www.youtube.com/watch?v=BAISlnTLIeY), _October 2018_
+April 2019, PAYMENTSfn: "Encoding: Understanding the Basics"
 
-Duke University's Nicholas Institute for Environmental Policy Solutions: "Blockchain Basics", _October 2018_
+April 2019, Women Who Code CONNECT - SF: "Encryption Essentials: How does it work & why is it important?"
 
-Self.Conference: ["How the Game is Played: Understanding Blockchain Basics"](http://selfconference.org/events/4/sessions#speaker_438), _August 2018_
+October 2018, All Things Open: ["Ladies Explain the Blockchain"](https://www.youtube.com/watch?v=BAISlnTLIeY)
 
-PaymentsFN: ["3DS: The Good, The Bad & The Future"](https://www.youtube.com/watch?v=rtMnAstvPdo), _May 2018_
+October 2018, Duke University's Nicholas Institute for Environmental Policy Solutions: "Blockchain Basics"
 
-Momentum: ["Ladies Explain the Blockchain"](https://www.youtube.com/watch?v=W9NnaEHb5ZA), _March 2018_
+August 2018, Self.Conference: ["How the Game is Played: Understanding Blockchain Basics"](http://selfconference.org/events/4/sessions#speaker_438)
 
-Strangeloop: "Lightning Talk: Brainstorming with Introverts", _September 2017_
+May 2018, PAYMENTSfn: ["3DS: The Good, The Bad & The Future"](https://www.youtube.com/watch?v=rtMnAstvPdo)
+
+March 2018, Momentum: ["Ladies Explain the Blockchain"](https://www.youtube.com/watch?v=W9NnaEHb5ZA)
+
+September 2017, Strangeloop: "Lightning Talk: Brainstorming with Introverts"
+
+## { media }
+
+June 2018: [_She Did It and Believes You Can, too!_](https://medium.com/momentumrdu/she-did-it-and-believes-you-can-too-14e74ff37e84)
+
+May 2018: [_How Female Professionals are Proving Women's Worth in Tech_](https://www.wraltechwire.com/2018/05/24/how-female-professionals-are-proving-womens-worth-in-tech/)
+
+
