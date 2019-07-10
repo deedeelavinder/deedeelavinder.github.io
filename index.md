@@ -31,7 +31,9 @@ The skills I value and rely on the most include creative problem solving, analyt
 
 ## { speaking engagements }
 
-April 2019, PAYMENTSfn: "Encoding: Understanding the Basics"
+October 2019, All Things Open: "Keeping Secrets: What You Need to Know about Encryption"
+
+April 2019, PAYMENTSfn: ["Encoding: Understanding the Basics"](https://www.youtube.com/watch?v=ah4_TXetq0g&feature=youtu.be&list=PLE7tQUdRKcyYqQEEpwgtvuEB883NEGn9S)
 
 April 2019, Women Who Code CONNECT - SF: "Encryption Essentials: How does it work & why is it important?"
 
@@ -46,6 +48,7 @@ May 2018, PAYMENTSfn: ["3DS: The Good, The Bad & The Future"](https://www.youtub
 March 2018, Momentum: ["Ladies Explain the Blockchain"](https://www.youtube.com/watch?v=W9NnaEHb5ZA)
 
 September 2017, Strangeloop: "Lightning Talk: Brainstorming with Introverts"
+
 
 ## { media }
 
