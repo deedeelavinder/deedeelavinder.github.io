@@ -37,7 +37,7 @@ April 2019, PAYMENTSfn: ["Encoding: Understanding the Basics"](https://www.youtu
 
 April 2019, Women Who Code CONNECT - SF: "Encryption Essentials: How does it work & why is it important?"
 
-October 2018, All Things Open: ["Ladies Explain the Blockchain"](https://www.youtube.com/watch?v=BAISlnTLIeY)
+October 2018, All Things Open: "Ladies Explain the Blockchain"
 
 October 2018, Duke University's Nicholas Institute for Environmental Policy Solutions: "Blockchain Basics"
 
@@ -45,7 +45,7 @@ August 2018, Self.Conference: ["How the Game is Played: Understanding Blockchain
 
 May 2018, PAYMENTSfn: ["3DS: The Good, The Bad & The Future"](https://www.youtube.com/watch?v=rtMnAstvPdo)
 
-March 2018, Momentum: ["Ladies Explain the Blockchain"](https://www.youtube.com/watch?v=W9NnaEHb5ZA)
+March 2018, Momentum: "Ladies Explain the Blockchain"
 
 September 2017, Strangeloop: "Lightning Talk: Brainstorming with Introverts"
 
