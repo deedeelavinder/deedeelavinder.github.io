@@ -19,7 +19,7 @@ I am mother to three amazing people and two dogs. I also volunteer extensively i
 
 ## { giving back }
 
-With a mission to inspire women to excel in technology careers, Women Who Code is the organization to which I chose to channel my volunteer energy. Helping to bring womxn together for inspiration, encouragement, learning new skills, and celebration of accomplishments is a joy.
+With a mission to inspire women to excel in technology careers, ["Women Who Code"](https://www.womenwhocode.com/raleigh-durham/about) is the organization to which I chose to channel my volunteer energy. Helping to bring womxn together for inspiration, encouragement, learning new skills, and celebration of accomplishments is a joy.
 
 
 ## { me }
@@ -31,7 +31,9 @@ The skills I value and rely on the most include creative problem solving, analyt
 
 ## { speaking engagements }
 
-October 2019, All Things Open: "Keeping Secrets: What You Need to Know about Encryption"
+November 2019, RubyConf: ["How to Become an Encoding Champion"](https://rubyconf.org/program#session-901)
+
+October 2019, All Things Open: ["Keeping Secrets: What You Need to Know about Encryption"](https://allthingsopen.org/talk/keeping-secrets-what-you-need-to-know-about-encryption/)
 
 April 2019, PAYMENTSfn: ["Encoding: Understanding the Basics"](https://www.youtube.com/watch?v=ah4_TXetq0g&feature=youtu.be&list=PLE7tQUdRKcyYqQEEpwgtvuEB883NEGn9S)
 
