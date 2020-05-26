@@ -9,7 +9,7 @@ layout: default
 
 ## { work }
 
-I currently work as a backend software engineer in the payments industry.
+I currently work as a senior backend software engineer in the payments industry.
 
 
 ## { life }
@@ -29,9 +29,22 @@ People who know me describe me as collaborative, ambitious, patient, and compass
 The skills I value and rely on the most include creative problem solving, analytical thinking, and connecting with people. I am a systems thinker and a detail lover.
 
 
+## { podcasts }
+
+May 2020, Ruby Rogues: ["Brainstorming with Introverts"](https://devchat.tv/ruby-rogues/rr-460-how-to-brainstorm-with-introverts-deedee-lavinder/) | ["Download: MP3"](https://media.devchat.tv/ruby-rogues/RR_460_DeeDee_Lavinder.mp3)
+
+December 2019, Ruby on Rails Podcast with Brittany Martin: ["Understanding Encoding"](https://5by5.tv/rubyonrails/298) | ["Download: MP3 Audio (25.7 MB)"](https://director.5by5.tv/d/rubyonrails/5by5.cachefly.net/audio/broadcasts/rubyonrails/2019/rubyonrails-298.mp3)
+
+
 ## { speaking engagements }
 
-November 2019, RubyConf: ["How to Become an Encoding Champion"](https://rubyconf.org/program#session-901)
+August 2020, The Lead Developer: ["Building inclusion through effective moderation"](https://newyork2020.theleaddeveloper.com/talks#deedee-lavinder)
+
+March 2020, LibrePlanet: ["Keeping Secrets: What you need to know about Encryption"](https://media.libreplanet.org/u/libreplanet/m/keeping-secrets-what-you-need-to-know-about-encryption/)
+
+November 2019, RubyConf Lightning Talk: ["Brainstorming with Introverts"](https://www.youtube.com/watch?v=7TrKS8ZiTyI&feature=youtu.be&list=PLE7tQUdRKcyZDE8nFrKaqkpd-XK4huygU&t=4506)
+
+November 2019, RubyConf: ["How to Become an Encoding Champion"](https://www.youtube.com/watch?v=3Uut6DEgW-4)
 
 October 2019, All Things Open: ["Keeping Secrets: What You Need to Know about Encryption"](https://allthingsopen.org/talk/keeping-secrets-what-you-need-to-know-about-encryption/)
 
