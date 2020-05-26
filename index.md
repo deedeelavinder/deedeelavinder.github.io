@@ -31,11 +31,11 @@ The skills I value and rely on the most include creative problem solving, analyt
 
 ## { podcasts }
 
-May 2020, Ruby Rogues: ["Brainstorming with Introverts"](https://devchat.tv/ruby-rogues/rr-460-how-to-brainstorm-with-introverts-deedee-lavinder/)
-    [Download: MP3](https://media.devchat.tv/ruby-rogues/RR_460_DeeDee_Lavinder.mp3)
+May 2020, Ruby Rogues: ["Brainstorming with Introverts"](https://devchat.tv/ruby-rogues/rr-460-how-to-brainstorm-with-introverts-deedee-lavinder/)<br>
+*[Download: MP3](https://media.devchat.tv/ruby-rogues/RR_460_DeeDee_Lavinder.mp3)*
 
-December 2019, Ruby on Rails Podcast with Brittany Martin: ["Understanding Encoding"](https://5by5.tv/rubyonrails/298)
-    [Download: MP3 Audio (25.7 MB)](https://director.5by5.tv/d/rubyonrails/5by5.cachefly.net/audio/broadcasts/rubyonrails/2019/rubyonrails-298.mp3)
+December 2019, Ruby on Rails Podcast with Brittany Martin: ["Understanding Encoding"](https://5by5.tv/rubyonrails/298)<br>
+*[Download: MP3 Audio (25.7 MB)](https://director.5by5.tv/d/rubyonrails/5by5.cachefly.net/audio/broadcasts/rubyonrails/2019/rubyonrails-298.mp3)*
 
 
 ## { speaking engagements }
@@ -48,7 +48,7 @@ November 2019, RubyConf Lightning Talk: ["Brainstorming with Introverts"](https:
 
 November 2019, RubyConf: ["How to Become an Encoding Champion"](https://www.youtube.com/watch?v=3Uut6DEgW-4)
 
-October 2019, All Things Open: ["Keeping Secrets: What You Need to Know about Encryption"](https://allthingsopen.org/talk/keeping-secrets-what-you-need-to-know-about-encryption/)
+October 2019, All Things Open: ["Keeping Secrets: What You Need to Know about Encryption"](https://twitter.com/ddlavinder/status/1184166085299527683)
 
 April 2019, PAYMENTSfn: ["Encoding: Understanding the Basics"](https://www.youtube.com/watch?v=ah4_TXetq0g&feature=youtu.be&list=PLE7tQUdRKcyYqQEEpwgtvuEB883NEGn9S)
 
