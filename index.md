@@ -31,9 +31,9 @@ The skills I value and rely on the most include creative problem solving, analyt
 
 ## { podcasts }
 
-May 2020, Ruby Rogues: ["Brainstorming with Introverts"](https://devchat.tv/ruby-rogues/rr-460-how-to-brainstorm-with-introverts-deedee-lavinder/) | ["Download: MP3"](https://media.devchat.tv/ruby-rogues/RR_460_DeeDee_Lavinder.mp3)
+May 2020, Ruby Rogues: ["Brainstorming with Introverts"](https://devchat.tv/ruby-rogues/rr-460-how-to-brainstorm-with-introverts-deedee-lavinder/), ["Download: MP3"](https://media.devchat.tv/ruby-rogues/RR_460_DeeDee_Lavinder.mp3)
 
-December 2019, Ruby on Rails Podcast with Brittany Martin: ["Understanding Encoding"](https://5by5.tv/rubyonrails/298) | ["Download: MP3 Audio (25.7 MB)"](https://director.5by5.tv/d/rubyonrails/5by5.cachefly.net/audio/broadcasts/rubyonrails/2019/rubyonrails-298.mp3)
+December 2019, Ruby on Rails Podcast with Brittany Martin: ["Understanding Encoding"](https://5by5.tv/rubyonrails/298), ["Download: MP3 Audio (25.7 MB)"](https://director.5by5.tv/d/rubyonrails/5by5.cachefly.net/audio/broadcasts/rubyonrails/2019/rubyonrails-298.mp3)
 
 
 ## { speaking engagements }
