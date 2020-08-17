@@ -11,6 +11,8 @@ layout: default
 
 I currently work as a senior backend software engineer in the payments industry.
 
+Previously, I worked as a small business owner, project manager, and operations manager.
+
 
 ## { life }
 
@@ -40,7 +42,7 @@ December 2019, Ruby on Rails Podcast with Brittany Martin: ["Understanding Encod
 
 ## { speaking engagements }
 
-August 2020, The Lead Developer: ["Building inclusion through effective moderation"](https://newyork2020.theleaddeveloper.com/talks#deedee-lavinder)
+April 2021 (Upcoming), The Lead Developer: ["Building inclusion through effective moderation"](https://newyork2020.theleaddeveloper.com/talks#deedee-lavinder)
 
 March 2020, LibrePlanet: ["Keeping Secrets: What you need to know about Encryption"](https://media.libreplanet.org/u/libreplanet/m/keeping-secrets-what-you-need-to-know-about-encryption/)
 
