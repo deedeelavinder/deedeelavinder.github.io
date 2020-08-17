@@ -9,9 +9,7 @@ layout: default
 
 ## { work }
 
-I currently work as a senior backend software engineer in the payments industry.
-
-Previously, I worked as a small business owner, project manager, and operations manager.
+I currently work as a senior backend software engineer in the payments industry. Previously, I worked as a small business owner, project manager, and operations manager.
 
 
 ## { life }
